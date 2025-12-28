@@ -10,7 +10,7 @@
 I'm passionate about being a Software Developer & Tester focused on building clean, scalable, and production-ready web applications. With hands-on experience in full-stack development, I love working on real-world problems and improving my skills every day.
 
 
-<h3 align="center">Aspiring Software Developer & Tester | Full Stack Developer | MCA Student | Tech Enthusiast</h3>
+<h3 align="center">Aspiring Software Developer & Tester | Full Stack Developer | MCA Student | Tech Enthusiast </h3>
 
 
 <br>
